@@ -1,0 +1,37 @@
+
+\setuplayout
+  [footer=0cm,
+   header=0cm,
+   width=middle,
+   height=middle]
+
+\setuppagenumbering[location=]
+
+\starttext
+
+\registerctxluafile{haiku}{0.1}
+\def\parsehaiku #1{\ctxlua{haiku.parse("#1")}}
+\def\authorname #1{\ctxlua{haiku.author("#1")}}
+
+\startxmlsetups xml:atom:base
+	\xmlsetsetup{atom}{feed}{xml:atom:feed}
+\stopxmlsetups
+
+\startxmlsetups xml:atom:feed
+	\xmlcommand{#1}{/entry}{xml:atom:entry}
+\stopxmlsetups
+
+\startxmlsetups xml:atom:entry
+    \def\AUTHOR{\xmlfirst{#1}{/author/name}}
+    \def\HAIKU{\xmlfirst{#1}{/title}}
+    \startframedtext[corner=round,align=middle,frame=none,background=screen,backgroundscreen=.9,width=\textwidth]
+	    From: \authorname{\AUTHOR}\par
+	    \parsehaiku{ /MAA }
+    \stopframedtext
+\stopxmlsetups
+
+\xmlregisterdocumentsetup{atom}{xml:atom:base}
+
+\xmlprocessfile{atom}{data/haiku.atom}{}
+
+\stoptext
