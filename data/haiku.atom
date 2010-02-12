@@ -81,7 +81,6 @@
       <uri>http://twitter.com/karentocity</uri>
     </author>
   </entry>
-  
   <entry>
     <id>tag:search.twitter.com,2005:8976477988</id>
     <published>2010-02-11T20:33:01Z</published>
@@ -99,7 +98,6 @@
       <uri>http://twitter.com/haikudiaries</uri>
     </author>
   </entry>
-  
   <entry>
     <id>tag:search.twitter.com,2005:8976402108</id>
     <published>2010-02-11T20:30:52Z</published>
@@ -136,26 +134,6 @@
     </author>
   </entry>
   <entry>
-    <id>tag:search.twitter.com,2005:8976321627</id>
-    <published>2010-02-11T20:28:42Z</published>
-    <link type="text/html" href="http://twitter.com/rmotta/statuses/8976321627" rel="alternate"/>
-    <title>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂в0∂у вє©0мєѕ ѕ๏υℓ / åямѕ ωιηgѕ / η0 мιяå©ℓє ๏ηℓу тяυтн▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</title>
-    <content type="html">RT &lt;a href="http://twitter.com/Guy_Vincent"&gt;@Guy_Vincent&lt;/a&gt;: ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
-в0∂у вє©0мєѕ ѕ๏υℓ / åямѕ ωιηgѕ / η0 мιяå©ℓє ๏ηℓу тяυтн
-▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
-&lt;a href="http://search.twitter.com/search?q=%23GVR"&gt;#GVR&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
-    <updated>2010-02-11T20:28:42Z</updated>
-    <link type="image/png" href="http://a1.twimg.com/profile_images/56227794/renata01_2005_bx_normal.jpg" rel="image"/>
-    <twitter:geo>
-    </twitter:geo>
-    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
-    <twitter:lang>fi</twitter:lang>
-    <author>
-      <name>rmotta (Renata Motta)</name>
-      <uri>http://twitter.com/rmotta</uri>
-    </author>
-  </entry>
-  <entry>
     <id>tag:search.twitter.com,2005:8976273918</id>
     <published>2010-02-11T20:27:22Z</published>
     <link type="text/html" href="http://twitter.com/haikudiaries/statuses/8976273918" rel="alternate"/>
@@ -189,7 +167,6 @@
       <uri>http://twitter.com/InVinceWil</uri>
     </author>
   </entry>
-  
   <entry>
     <id>tag:search.twitter.com,2005:8976253087</id>
     <published>2010-02-11T20:26:47Z</published>
@@ -243,8 +220,6 @@
       <uri>http://twitter.com/dharma66</uri>
     </author>
   </entry>
-  
-  
   
   <entry>
     <id>tag:search.twitter.com,2005:8975960896</id>
@@ -300,8 +275,6 @@
   
   
   
-  
-  
   <entry>
     <id>tag:search.twitter.com,2005:8975580552</id>
     <published>2010-02-11T20:07:47Z</published>
@@ -319,11 +292,6 @@
       <uri>http://twitter.com/makeit2double</uri>
     </author>
   </entry>
-  
-  
-  
-  
-  
   
   
   <entry>
