@@ -6,6 +6,6 @@ function haiku.parse(tweet)
 end
 
 function haiku.author(str)
-  _, _, name = string.find(str, "^(%a+)")
+  _, _, name = string.find(str, "^([%a%d_]+)")
   p(name)
 end
