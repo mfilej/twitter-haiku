@@ -2,7 +2,7 @@ haiku = haiku or {}
 local p = tex.sprint
 
 function haiku.parse(tweet)
-  p("MWA* " .. tweet .. " *MWA")
+  p(tweet)
 end
 
 function haiku.author(str)

@@ -24,9 +24,10 @@
 \startxmlsetups xml:atom:entry
     \def\AUTHOR{\xmlfirst{#1}{/author/name}}
     \def\HAIKU{\xmlfirst{#1}{/title}}
-    \startframedtext[corner=round,align=middle,frame=none,background=screen,backgroundscreen=.9,width=\textwidth]
-	    From: \authorname{\AUTHOR}\par
-	    \parsehaiku{ /MAA }
+    \startframedtext[align=middle,frame=none,background=none,width=\textwidth]
+	    \parsehaiku{\HAIKU}\par
+    	---\authorname{\AUTHOR}\par
+    	    
     \stopframedtext
 \stopxmlsetups
 
