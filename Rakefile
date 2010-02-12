@@ -21,11 +21,13 @@ end
 desc "Fetch a fresh twitter feed"
 task :fetch do
   rm_if_exist "data/source.atom"
-  system %x{curl -o data/source.atom "http://search.twitter.com/search.atom?q=%23haiku&rpp=50"}
+  system %x{curl -o data/source.atom "http://search.twitter.com/search.atom?q=%23haiku&rpp=50&lang=en"}
 end
 
 desc "Rewrites the twitter feed by normalizing tweets"
-task :prepare => :fetch do
+task :prepare => [:fetch, :normalize]
+
+task :normalize do
   $LOAD_PATH.unshift File.join(File.dirname(__FILE__), "lib")
   require "haiku"
   source = open "data/source.atom"
