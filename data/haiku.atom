@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:google="http://base.google.com/ns/1.0" xmlns:openSearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:georss="http://www.georss.org/georss" xmlns="http://www.w3.org/2005/Atom" xmlns:twitter="http://api.twitter.com/" xml:lang="en-US">
+  <id>tag:search.twitter.com,2005:search/#haiku</id>
+  <link type="text/html" href="http://search.twitter.com/search?q=%23haiku" rel="alternate"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23haiku&amp;rpp=50" rel="self"/>
+  <title>#haiku - Twitter Search</title>
+  <link type="application/opensearchdescription+xml" href="http://search.twitter.com/opensearch.xml" rel="search"/>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?q=%23haiku&amp;rpp=50&amp;since_id=8976949711" rel="refresh"/>
+  <twitter:warning>since_id removed for pagination.</twitter:warning>
+  <updated>2010-02-11T20:46:07Z</updated>
+  <openSearch:itemsPerPage>50</openSearch:itemsPerPage>
+  <link type="application/atom+xml" href="http://search.twitter.com/search.atom?max_id=8976949711&amp;page=2&amp;q=%23haiku&amp;rpp=50" rel="next"/>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976949711</id>
+    <published>2010-02-11T20:46:07Z</published>
+    <link type="text/html" href="http://twitter.com/CerridwynTiponi/statuses/8976949711" rel="alternate"/>
+    <title>Wet roads turn icy / When the sun yields to the night / And cold settles in</title>
+    <content type="html">Wet roads turn icy // When the sun yields to the night // And cold settles in &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23poetry"&gt;#poetry&lt;/a&gt;</content>
+    <updated>2010-02-11T20:46:07Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/631602153/DSC00770_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>CerridwynTiponi (Cerridwyn Tiponi)</name>
+      <uri>http://twitter.com/CerridwynTiponi</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976904674</id>
+    <published>2010-02-11T20:44:55Z</published>
+    <link type="text/html" href="http://twitter.com/larahopey/statuses/8976904674" rel="alternate"/>
+    <title>A tear on my cheek / and a sharp knife in my hands / I'm chopping onions</title>
+    <content type="html">RT &lt;a href="http://twitter.com/simonscotland"&gt;@simonscotland&lt;/a&gt;: A tear on my cheek / and a sharp knife in my hands / I&amp;apos;m chopping onions &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:44:55Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/612918979/smirk_again_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://www.brizzly.com" rel="nofollow"&gt;Brizzly&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>larahopey (Lara Hope Yarbrough)</name>
+      <uri>http://twitter.com/larahopey</uri>
+    </author>
+  </entry>
+  
+  
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8976678597</id>
+    <published>2010-02-11T20:38:41Z</published>
+    <link type="text/html" href="http://twitter.com/HikiMadwoman/statuses/8976678597" rel="alternate"/>
+    <title>her pale hand / glossy manicure still / the deep snow</title>
+    <content type="html">her pale hand / glossy manicure still / the deep snow &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:38:41Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/599266509/avatar_milk_vamp_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>HikiMadwoman (Preservative Woman)</name>
+      <uri>http://twitter.com/HikiMadwoman</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976558145</id>
+    <published>2010-02-11T20:35:17Z</published>
+    <link type="text/html" href="http://twitter.com/karentocity/statuses/8976558145" rel="alternate"/>
+    <title>there's a voice in my / head shouting and screaming in / anger from its stress</title>
+    <content type="html">there&amp;apos;s a voice in my / head shouting and screaming in / anger from its stress &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23annoyance"&gt;#annoyance&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23noise"&gt;#noise&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23people"&gt;#people&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23sorrow"&gt;#sorrow&lt;/a&gt;</content>
+    <updated>2010-02-11T20:35:17Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/413418085/131256_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>karentocity (Karen Christian)</name>
+      <uri>http://twitter.com/karentocity</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8976477988</id>
+    <published>2010-02-11T20:33:01Z</published>
+    <link type="text/html" href="http://twitter.com/haikudiaries/statuses/8976477988" rel="alternate"/>
+    <title>Why is everywhere / On earth getting snow, but not / The Bay Area?</title>
+    <content type="html">Why is everywhere / On earth getting snow, but not / The Bay Area? &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:33:01Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/541085365/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>haikudiaries (MC-Q)</name>
+      <uri>http://twitter.com/haikudiaries</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8976402108</id>
+    <published>2010-02-11T20:30:52Z</published>
+    <link type="text/html" href="http://twitter.com/StarOfSavannah/statuses/8976402108" rel="alternate"/>
+    <title>long for spring / wintering swans / gallivant the next flight</title>
+    <content type="html">RT &lt;a href="http://twitter.com/tama001"&gt;@tama001&lt;/a&gt; long for spring / wintering swans / gallivant the next flight &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23senryu"&gt;#senryu&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23artwiculate"&gt;#artwiculate&lt;/a&gt;</content>
+    <updated>2010-02-11T20:30:52Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/609041075/tb_4_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://www.atebits.com/" rel="nofollow"&gt;Tweetie&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>StarOfSavannah (StarOfSavannah)</name>
+      <uri>http://twitter.com/StarOfSavannah</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8976322557</id>
+    <published>2010-02-11T20:28:44Z</published>
+    <link type="text/html" href="http://twitter.com/karentocity/statuses/8976322557" rel="alternate"/>
+    <title>it makes sens that you / would find fault in my writings / when you cannot read</title>
+    <content type="html">it makes sens that you / would find fault in my writings / when you cannot read &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23jealousy"&gt;#jealousy&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23bitter"&gt;#bitter&lt;/a&gt;</content>
+    <updated>2010-02-11T20:28:44Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/413418085/131256_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>karentocity (Karen Christian)</name>
+      <uri>http://twitter.com/karentocity</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976321627</id>
+    <published>2010-02-11T20:28:42Z</published>
+    <link type="text/html" href="http://twitter.com/rmotta/statuses/8976321627" rel="alternate"/>
+    <title>▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂в0∂у вє©0мєѕ ѕ๏υℓ / åямѕ ωιηgѕ / η0 мιяå©ℓє ๏ηℓу тяυтн▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁</title>
+    <content type="html">RT &lt;a href="http://twitter.com/Guy_Vincent"&gt;@Guy_Vincent&lt;/a&gt;: ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
+в0∂у вє©0мєѕ ѕ๏υℓ / åямѕ ωιηgѕ / η0 мιяå©ℓє ๏ηℓу тяυтн
+▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁
+&lt;a href="http://search.twitter.com/search?q=%23GVR"&gt;#GVR&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:28:42Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/56227794/renata01_2005_bx_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>fi</twitter:lang>
+    <author>
+      <name>rmotta (Renata Motta)</name>
+      <uri>http://twitter.com/rmotta</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976273918</id>
+    <published>2010-02-11T20:27:22Z</published>
+    <link type="text/html" href="http://twitter.com/haikudiaries/statuses/8976273918" rel="alternate"/>
+    <title>Stayed in bed today. / Three days in and I needed / A mental health day.</title>
+    <content type="html">Stayed in bed today. / Three days in and I needed / A mental health day. &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:27:22Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/541085365/twitterProfilePhoto_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>haikudiaries (MC-Q)</name>
+      <uri>http://twitter.com/haikudiaries</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976266768</id>
+    <published>2010-02-11T20:27:10Z</published>
+    <link type="text/html" href="http://twitter.com/InVinceWil/statuses/8976266768" rel="alternate"/>
+    <title>Is and Ts are not / the only letters that need / dotting and crossing.</title>
+    <content type="html">Is and Ts are not / the only letters that need / dotting and crossing. &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23grammarsnob"&gt;#grammarsnob&lt;/a&gt;</content>
+    <updated>2010-02-11T20:27:10Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/615034704/eyez_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>InVinceWil (Your Real Name)</name>
+      <uri>http://twitter.com/InVinceWil</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8976253087</id>
+    <published>2010-02-11T20:26:47Z</published>
+    <link type="text/html" href="http://twitter.com/StarOfSavannah/statuses/8976253087" rel="alternate"/>
+    <title>Still, frozen in space / soon fluid motion; your hand / artist's gallivant</title>
+    <content type="html">RT &lt;a href="http://twitter.com/Wifsie"&gt;@Wifsie&lt;/a&gt; Still, frozen in space / soon fluid motion; your hand / artist&amp;apos;s gallivant &lt;a href="http://search.twitter.com/search?q=%23artwiculate"&gt;#artwiculate&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:26:47Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/609041075/tb_4_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://www.atebits.com/" rel="nofollow"&gt;Tweetie&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>StarOfSavannah (StarOfSavannah)</name>
+      <uri>http://twitter.com/StarOfSavannah</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976248527</id>
+    <published>2010-02-11T20:26:39Z</published>
+    <link type="text/html" href="http://twitter.com/HikiMadwoman/statuses/8976248527" rel="alternate"/>
+    <title>Robins distant warble / whistles the playful breeze ~ seeks / A soulful spring lilt</title>
+    <content type="html">RT &lt;a href="http://twitter.com/yearning4d_sky"&gt;@yearning4d_sky&lt;/a&gt;: Robins distant warble// whistles the playful breeze ~ seeks // A soulful spring lilt &lt;a href="http://search.twitter.com/search?q=%23haikuwordgame"&gt;#haikuwordgame&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:26:39Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/599266509/avatar_milk_vamp_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>HikiMadwoman (Preservative Woman)</name>
+      <uri>http://twitter.com/HikiMadwoman</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8976191197</id>
+    <published>2010-02-11T20:25:04Z</published>
+    <link type="text/html" href="http://twitter.com/dharma66/statuses/8976191197" rel="alternate"/>
+    <title>hmm Dha dhin dhin dha / dha dha ti re ki te D'Oh! / tabla tutor smiles</title>
+    <content type="html">hmm Dha dhin dhin dha / dha dha ti re ki te D&amp;apos;Oh! / tabla tutor smiles
+ &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23tabla"&gt;#tabla&lt;/a&gt;</content>
+    <updated>2010-02-11T20:25:04Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/114719486/MedRes_normal.jpg" rel="image"/>
+    <twitter:geo>
+<georss:point>53.5648 -2.2027</georss:point>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://www.tweetdeck.com/" rel="nofollow"&gt;TweetDeck&lt;/a&gt;</twitter:source>
+    <twitter:lang>es</twitter:lang>
+    <author>
+      <name>dharma66 (Phil Lewis)</name>
+      <uri>http://twitter.com/dharma66</uri>
+    </author>
+  </entry>
+  
+  
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8975960896</id>
+    <published>2010-02-11T20:18:37Z</published>
+    <link type="text/html" href="http://twitter.com/Gardencomet/statuses/8975960896" rel="alternate"/>
+    <title>Majority rule / human race outvoted / respect animals</title>
+    <content type="html">&lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; Majority rule/ human race outvoted/ respect animals &lt;a href="http://search.twitter.com/search?q=%23animals"&gt;#animals&lt;/a&gt;</content>
+    <updated>2010-02-11T20:18:37Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/653248398/HappyFace_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Gardencomet (Ginette Jones)</name>
+      <uri>http://twitter.com/Gardencomet</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8975839518</id>
+    <published>2010-02-11T20:15:12Z</published>
+    <link type="text/html" href="http://twitter.com/InVinceWil/statuses/8975839518" rel="alternate"/>
+    <title>the secret of all / hieroglyphics: every / word demands freedom</title>
+    <content type="html">the secret of all / hieroglyphics: every / word demands freedom &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:15:12Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/615034704/eyez_normal.JPG" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>InVinceWil (Your Real Name)</name>
+      <uri>http://twitter.com/InVinceWil</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8975800149</id>
+    <published>2010-02-11T20:14:06Z</published>
+    <link type="text/html" href="http://twitter.com/Jemfyr/statuses/8975800149" rel="alternate"/>
+    <title>rigorous prayers / as i kneel on doubting salt / seeking atonement</title>
+    <content type="html">RT &lt;a href="http://twitter.com/HikiMadwoman"&gt;@HikiMadwoman&lt;/a&gt;: rigorous prayers / as i kneel on doubting salt / seeking atonement &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haikuchallenge"&gt;#haikuchallenge&lt;/a&gt;</content>
+    <updated>2010-02-11T20:14:06Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/272053532/pink_and_black_gerber_with_heart_center_pic_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://ubertwitter.com" rel="nofollow"&gt;UberTwitter&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Jemfyr (Jem)</name>
+      <uri>http://twitter.com/Jemfyr</uri>
+    </author>
+  </entry>
+  
+  
+  
+  
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8975580552</id>
+    <published>2010-02-11T20:07:47Z</published>
+    <link type="text/html" href="http://twitter.com/makeit2double/statuses/8975580552" rel="alternate"/>
+    <title>White tailed deer amid / rows of old corn - coyotes / stalking the tree line</title>
+    <content type="html">White tailed deer amid / rows of old corn - coyotes / stalking the tree line  &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;  &lt;a href="http://search.twitter.com/search?q=%23poetry"&gt;#poetry&lt;/a&gt;</content>
+    <updated>2010-02-11T20:07:47Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/447183801/n1269869001_7488_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://www.hootsuite.com" rel="nofollow"&gt;HootSuite&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>makeit2double (Make it a Double)</name>
+      <uri>http://twitter.com/makeit2double</uri>
+    </author>
+  </entry>
+  
+  
+  
+  
+  
+  
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8975335397</id>
+    <published>2010-02-11T20:00:50Z</published>
+    <link type="text/html" href="http://twitter.com/Adamfyre/statuses/8975335397" rel="alternate"/>
+    <title>Lands edge touching sky / Heavenly inspiration / Gorgeous horizon</title>
+    <content type="html">RT &lt;a href="http://twitter.com/kathleengrissom"&gt;@kathleengrissom&lt;/a&gt;: Lands edge touching sky / Heavenly inspiration / Gorgeous horizon &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T20:00:50Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/624783999/Capture10_5_40_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://socialscope.net" rel="nofollow"&gt;SocialScope&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Adamfyre (Adam)</name>
+      <uri>http://twitter.com/Adamfyre</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8975290518</id>
+    <published>2010-02-11T19:59:41Z</published>
+    <link type="text/html" href="http://twitter.com/HaikuMumbler/statuses/8975290518" rel="alternate"/>
+    <title>the possibility of turning / responsibility until it / contained little son</title>
+    <content type="html">the possibility of turning // responsibility until it // contained little son &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T19:59:41Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/549358366/HaikuMumbler_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>HaikuMumbler (Haiku-Mumbler)</name>
+      <uri>http://twitter.com/HaikuMumbler</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8975269513</id>
+    <published>2010-02-11T19:59:04Z</published>
+    <link type="text/html" href="http://twitter.com/HikiMadwoman/statuses/8975269513" rel="alternate"/>
+    <title>rigorous efforts / clear snow below my window / while i sip cocoa</title>
+    <content type="html">rigorous efforts / clear snow below my window / while i sip cocoa &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23haikuchallenge"&gt;#haikuchallenge&lt;/a&gt;</content>
+    <updated>2010-02-11T19:59:04Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/599266509/avatar_milk_vamp_normal.png" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>HikiMadwoman (Preservative Woman)</name>
+      <uri>http://twitter.com/HikiMadwoman</uri>
+    </author>
+  </entry>
+  
+  <entry>
+    <id>tag:search.twitter.com,2005:8975177560</id>
+    <published>2010-02-11T19:56:23Z</published>
+    <link type="text/html" href="http://twitter.com/askmoltar/statuses/8975177560" rel="alternate"/>
+    <title>he didnt tell meee / and you get for studying med / anim gif saying</title>
+    <content type="html">he didnt tell meee / and you get for studying med / anim gif saying  &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt;</content>
+    <updated>2010-02-11T19:56:23Z</updated>
+    <link type="image/png" href="http://a3.twimg.com/profile_images/192269477/sgmoltar_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>askmoltar (Moltar)</name>
+      <uri>http://twitter.com/askmoltar</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8975176134</id>
+    <published>2010-02-11T19:56:21Z</published>
+    <link type="text/html" href="http://twitter.com/catmar604/statuses/8975176134" rel="alternate"/>
+    <title>Ode to Canada / Bring us bronze, silver and gold / Olympic glory!</title>
+    <content type="html">Ode to Canada / Bring us bronze, silver and gold / Olympic glory! &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23Olympics"&gt;#Olympics&lt;/a&gt;</content>
+    <updated>2010-02-11T19:56:21Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/688499788/1987_Lion_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitterrific.com" rel="nofollow"&gt;Twitterrific&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>catmar604 (Catharine Martin)</name>
+      <uri>http://twitter.com/catmar604</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8975112494</id>
+    <published>2010-02-11T19:54:31Z</published>
+    <link type="text/html" href="http://twitter.com/Gardencomet/statuses/8975112494" rel="alternate"/>
+    <title>Sharply snapping teeth / tightening strangling terror / ban the cruel traps</title>
+    <content type="html">&lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; Sharply snapping teeth/ tightening strangling terror/ ban the cruel traps &lt;a href="http://search.twitter.com/search?q=%23animals"&gt;#animals&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23traps"&gt;#traps&lt;/a&gt;</content>
+    <updated>2010-02-11T19:54:31Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/653248398/HappyFace_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>Gardencomet (Ginette Jones)</name>
+      <uri>http://twitter.com/Gardencomet</uri>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:search.twitter.com,2005:8975088159</id>
+    <published>2010-02-11T19:53:48Z</published>
+    <link type="text/html" href="http://twitter.com/mondopiccolo/statuses/8975088159" rel="alternate"/>
+    <title>Waiting for meeting / Keyboards are still typing hard / Is it now or never?</title>
+    <content type="html">Waiting for meeting/Keyboards are still typing hard/Is it now or never? &lt;a href="http://search.twitter.com/search?q=%23haiku"&gt;&lt;b&gt;#haiku&lt;/b&gt;&lt;/a&gt; &lt;a href="http://search.twitter.com/search?q=%23twiku"&gt;#twiku&lt;/a&gt; &lt;a href="http://tr.im/twiku"&gt;http://tr.im/twiku&lt;/a&gt;</content>
+    <updated>2010-02-11T19:53:48Z</updated>
+    <link type="image/png" href="http://a1.twimg.com/profile_images/27921852/my_photo_normal.jpg" rel="image"/>
+    <twitter:geo>
+    </twitter:geo>
+    <twitter:source>&lt;a href="http://twitter.com/"&gt;web&lt;/a&gt;</twitter:source>
+    <twitter:lang>en</twitter:lang>
+    <author>
+      <name>mondopiccolo (Matteo Castelli)</name>
+      <uri>http://twitter.com/mondopiccolo</uri>
+    </author>
+  </entry>
+  
+</feed>
